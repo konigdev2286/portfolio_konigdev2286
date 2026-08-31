@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "id": "proj_1788156992696",
+      "title": "Web App",
+      "category": "Développement Web",
+      "description": "merci",
+      "techStack": [
+        "Next.js 14",
+        "TypeScript",
+        "Supabase"
+      ],
+      "githubUrl": "https://github.com/konigdev2286",
+      "liveUrl": "",
+      "imageUrl": "/uploads/proj_1788156958635_8802b8eec4a3036d3d42395061611a.jpg",
+      "featured": false,
+      "status": "En cours",
+      "createdAt": "2026-08-31"
+    },
+    {
+      "id": "project-1",
+      "title": "Assistant IA Mobile Money",
+      "category": "IA & Automation",
+      "description": "Agent conversationnel intelligent capable d'orchestrer des transactions de paiement mobile, de vérifier les soldes et de guider l'utilisateur en français et langues locales.",
+      "techStack": [
+        "Next.js 14",
+        "Python",
+        "Mistral AI",
+        "Supabase",
+        "n8n"
+      ],
+      "githubUrl": "https://github.com/konigdev2286",
+      "liveUrl": "https://github.com/konigdev2286",
+      "imageUrl": "",
+      "featured": true,
+      "status": "En production",
+      "createdAt": "2026-08-15"
+    },
+    {
+      "id": "project-2",
+      "title": "Pipeline RAG & Documents Privés",
+      "category": "IA & Data",
+      "description": "Moteur d'indexation vectorielle sur documents juridiques et administratifs avec chunking sémantique optimisé et recherche de similarité pgvector sans hallucination.",
+      "techStack": [
+        "Python",
+        "pgvector",
+        "OpenAI API",
+        "PostgreSQL",
+        "LangChain"
+      ],
+      "githubUrl": "https://github.com/konigdev2286",
+      "liveUrl": "",
+      "imageUrl": "",
+      "featured": true,
+      "status": "Terminé",
+      "createdAt": "2026-07-20"
+    },
+    {
+      "id": "project-3",
+      "title": "Application Mobile E-Commerce Flutter",
+      "category": "Mobile",
+      "description": "Application mobile native iOS & Android avec gestion des commandes en temps réel, notifications push et intégration des passerelles de paiement locales.",
+      "techStack": [
+        "Flutter",
+        "Dart",
+        "Supabase",
+        "Tailwind CSS"
+      ],
+      "githubUrl": "https://github.com/konigdev2286",
+      "liveUrl": "",
+      "imageUrl": "",
+      "featured": false,
+      "status": "En cours",
+      "createdAt": "2026-06-10"
+    }
+  ]
+}
